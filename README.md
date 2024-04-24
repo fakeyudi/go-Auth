@@ -1,6 +1,6 @@
 # Project goAuth
 
-One Paragraph of project description goes here
+Auth Service using Gothic and Google OAuth
 
 ## Getting Started
 
